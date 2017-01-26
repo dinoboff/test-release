@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/dinoboff/test-release/issues"
   },
-  "homepage": "https://github.com/dinoboff/test-release#readme"
+  "homepage": "https://github.com/dinoboff/test-release#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "semver": "^5.3.0",
+    "tagged-versions": "^1.2.0"
+  },
+  "devDependencies": {},
+  "keywords": []
 }
